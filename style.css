@@ -1,0 +1,25 @@
+*{
+    margin: o;
+    padding: o;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+}
+
+.head{
+    font-size: 10rem;
+    font-weight: 900;
+    background-image: url(https://images.pexels.com/photos/1646753/pexels-photo-1646753.jpeg?cs=srgb&dl=pexels-unknown-user-1646753.jpg&fm=jpg);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
